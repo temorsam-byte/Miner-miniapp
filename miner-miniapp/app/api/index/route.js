@@ -1,4 +1,4 @@
-export async function POST(request) {
+nano app/api/index/route.jsexport async function POST(request) {
   const body = await request.json();
 
   // گرفتن chat_id از پیام دریافتی
